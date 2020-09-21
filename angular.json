@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "citas"
+    }
+  },
+  "defaultProject": "citas",
+  "cli": {
+    "analytics": "0d9efc35-f6e1-4cb2-8a63-d6363d6a1998"
+  }
 }
